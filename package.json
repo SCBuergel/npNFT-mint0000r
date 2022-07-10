@@ -1,0 +1,24 @@
+{
+  "name": "npnft-mint0000r",
+  "version": "1.0.0",
+  "description": "Contract and web app that allows anyone to mint non-private NFTs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoprnet/npNFT-mint0000r.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoprnet/npNFT-mint0000r/issues"
+  },
+  "homepage": "https://github.com/hoprnet/npNFT-mint0000r#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.0"
+  }
+}
